@@ -1,0 +1,11 @@
+{
+  "short_name": "THE PENIUS",
+  "name": "THE PENIUS, the perfect software for your agency",
+  "icons": [{
+      "src": "./img/ENIUS.png",
+      "type": "image/png",
+      "sizes": "192x192"
+  }],
+  "theme_color": "#2c2c2c",
+  "display": "fullscreen"
+}
